@@ -26,8 +26,10 @@ const projectsEN = defineCollection({
         z.object({
             title: z.string(),
             author: z.string(),
+            timeline: z.string(),
             image: image(),
             thumbnail: image(),
+            priority: z.number(),
         }),
 });
 
@@ -56,8 +58,10 @@ const projectsFR = defineCollection({
         z.object({
             title: z.string(),
             author: z.string(),
+            timeline: z.string(),
             image: image(),
             thumbnail: image(),
+            priority: z.number(),
         }),
 });
 
