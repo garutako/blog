@@ -10,17 +10,17 @@
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.6.0",
-    "@astrojs/ts-plugin": "^1.10.4",
+    "@astrojs/ts-plugin": "^1.10.5",
     "@fontsource/golos-text": "^5.2.8",
     "@fontsource/major-mono-display": "^5.2.8",
     "@fontsource/red-hat-mono": "^5.2.8",
-    "@tailwindcss/vite": "^4.1.13",
-    "astro": "^5.13.9",
-    "motion": "^12.23.16",
+    "@tailwindcss/vite": "^4.1.16",
+    "astro": "^5.15.3",
+    "motion": "^12.23.24",
     "sharp": "^0.34.4",
-    "tailwindcss": "^4.1.13"
+    "tailwindcss": "^4.1.16"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.18"
+    "@tailwindcss/typography": "^0.5.19"
   }
 }
