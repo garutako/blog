@@ -1,6 +1,7 @@
 ---
 title: Restaurant App
 author: Garutako
+timeline: "2024"
 image: ../../images/restaurant_app_banner.png
 thumbnail: ../../images/restaurant_app.png
 ---

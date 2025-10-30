@@ -27,8 +27,12 @@ const { Content } = await render(project);
     <div>
         <title>{project.data.title}</title>
         <div class='mx-auto max-w-200'>
-            <h1 class="font-bold">{project.data.title}</h1>
-            <h2>{project.data.author}</h2>
+            <h1 class="font-bold ">{project.data.title}</h1>
+            <div class="inline-block w-full">
+                <h2 class="float-left">{project.data.author}</h2>
+                <h2 class="float-right">{project.data.timeline}</h2>
+            </div>
+            <br />
             <br />
             <div class='aspect-5/2 overflow-hidden'>
                 <Image src={project.data.image} alt={''} class='h-full w-full object-cover' />
