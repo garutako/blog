@@ -29,6 +29,7 @@ const projectsEN = defineCollection({
             timeline: z.string(),
             image: image(),
             thumbnail: image(),
+            priority: z.number(),
         }),
 });
 
@@ -60,6 +61,7 @@ const projectsFR = defineCollection({
             timeline: z.string(),
             image: image(),
             thumbnail: image(),
+            priority: z.number(),
         }),
 });
 

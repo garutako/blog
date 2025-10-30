@@ -4,6 +4,7 @@ author: Garutako
 timeline: 2024-2025
 image: ../../images/transit_map.png
 thumbnail: ../../images/transit_map.png
+priority: 20
 ---
 
 Cette application affiche une carte en temps réel de la flotte de véhicules de la Société de transport de Montréal (STM). Il s'agit de mon premier projet réalisé avec [Next.js](https://nextjs.org/) et de mon introduction à la gestion d'état avec [React](https://react.dev/).

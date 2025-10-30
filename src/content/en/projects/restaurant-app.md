@@ -4,6 +4,7 @@ author: Garutako
 timeline: "2024"
 image: ../../images/restaurant_app_banner.png
 thumbnail: ../../images/restaurant_app.png
+priority: 10
 ---
 
 This was my first project where I had to work with a team. For 4 months, I got to work with 4 other developpers (my classmates in this case). 2 of them were tasked with creating the database and backend architechture and 2 were building the website. I worked on the mobile side of things by myself.

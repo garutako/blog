@@ -4,6 +4,7 @@ author: Garutako w/ Conjure Club
 timeline: Ongoing
 image: ../../images/gather_and_defend_banner.png
 thumbnail: ../../images/gather_and_defend.png
+priority: 30
 ---
 
 This is an ongoing project for my university's game development club, [Conjure](https://conjure.etsmtl.ca/).

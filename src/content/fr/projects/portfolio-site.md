@@ -4,6 +4,7 @@ author: Garutako
 timeline: Ongoing
 image: ../../images/portfolio_site.png
 thumbnail: ../../images/portfolio_site.png
+priority: 40
 ---
 
 Bienvenue sur mon site!

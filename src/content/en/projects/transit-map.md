@@ -4,6 +4,7 @@ author: Garutako
 timeline: 2024-2025
 image: ../../images/transit_map.png
 thumbnail: ../../images/transit_map.png
+priority: 20
 ---
 
 This app displays a real-time map of the Montréal Transport Society (STM) vehicle fleet. It was my first [Next.js](https://nextjs.org/) project and my introduction to [React](https://react.dev/) state management.  

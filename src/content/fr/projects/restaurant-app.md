@@ -4,6 +4,7 @@ author: Garutako
 timeline: "2024"
 image: ../../images/restaurant_app_banner.png
 thumbnail: ../../images/restaurant_app.png
+priority: 10
 ---
 
 Il s’agissait de mon premier projet en équipe. Pendant 4 mois, j’ai eu l’occasion de travailler avec 4 autres développeurs (des camarades de classe dans ce cas). Deux d’entre eux étaient chargés de créer la base de données et l’architecture backend, tandis que deux autres construisaient le site web. De mon côté, je me suis occupé seul de la partie mobile.

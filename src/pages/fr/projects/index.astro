@@ -7,6 +7,10 @@ import { getRelativeLocaleUrl } from 'astro:i18n';
 const projectsURL = getRelativeLocaleUrl('fr', 'projects/');
 
 const projects = await getCollection('projectsFR');
+
+projects.sort((a, b) => {
+    return b.data.priority - a.data.priority;
+})
 ---
 
 <Layout>
