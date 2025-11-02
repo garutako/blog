@@ -21,3 +21,7 @@ Le jeu suit une progression linéaire : chaque victoire débloque un nouveau niv
 ![La carte du désert](../../images/gather_and_defend_map.png)
 
 Pour le style artistique, on a opté pour un style « programmeur », car on n'a pas beaucoup d’artistes dans le club. J’ai pris beaucoup de plaisir à concevoir des modèles d’unités temporaires pour présenter mon travail avant de finaliser les « sprites » définitifs. Les compétences créatives sont tout aussi importantes que les compétences techniques dans le développement de jeux vidéo !
+
+On planifie de sortir le jeu vers la période Été 2026. Voici notre feuille de route!
+
+![Feuille de route dev + sorties](../../images/gather_and_defend_roadmap.png)

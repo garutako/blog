@@ -20,4 +20,8 @@ The game follows a linear progression. You unlock a new level with every victory
 
 ![The desert map](../../images/gather_and_defend_map.png)
 
-For the art, we are going for a "programmer" style as we do not have many artists in the club. I have had a lot of fun designing unit placeholders to showcase my work before settling on definitive sprites. Creative skills are as important as technical skills when it comes to game development! 
+For the art, we are going for a "programmer" style as we do not have many artists in the club. I have had a lot of fun designing unit placeholders to showcase my work before settling on definitive sprites. Creative skills are as important as technical skills when it comes to game development!
+
+We plan on releasing the game by Summer 2026. Here is our dev roadmap!
+
+![Dev + release roadmap](../../images/gather_and_defend_roadmap.png)
