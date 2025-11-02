@@ -1,7 +1,7 @@
 ---
 title: Gather and Defend
 author: Garutako + Club Conjure
-timeline: Ongoing
+timeline: En cours
 image: ../../images/gather_and_defend_defending.gif
 thumbnail: ../../images/gather_and_defend.png
 priority: 30

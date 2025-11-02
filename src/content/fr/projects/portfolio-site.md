@@ -1,7 +1,7 @@
 ---
 title: Portfolio website
 author: Garutako
-timeline: Ongoing
+timeline: En cours
 image: ../../images/portfolio_site.png
 thumbnail: ../../images/portfolio_site.png
 priority: 40
