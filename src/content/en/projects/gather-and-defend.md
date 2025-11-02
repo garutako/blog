@@ -4,6 +4,7 @@ author: Garutako w/ Conjure Club
 timeline: Ongoing
 image: ../../images/gather_and_defend_defending.gif
 thumbnail: ../../images/gather_and_defend.png
+link: https://craftelia.itch.io/gather-and-defend
 priority: 30
 ---
 
@@ -19,4 +20,4 @@ The game follows a linear progression. You unlock a new level with every victory
 
 ![The desert map](../../images/gather_and_defend_map.png)
 
-For the art, we are going for a "programmer" style as we do not have many artists in the club. I have had a lot of fun designing unit placeholders to showcase my work before settling on definitive sprites. Creative skills are as important as technical skills when it comes to game development!
+For the art, we are going for a "programmer" style as we do not have many artists in the club. I have had a lot of fun designing unit placeholders to showcase my work before settling on definitive sprites. Creative skills are as important as technical skills when it comes to game development! 

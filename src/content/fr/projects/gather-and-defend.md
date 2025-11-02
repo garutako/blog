@@ -4,6 +4,7 @@ author: Garutako + Club Conjure
 timeline: En cours
 image: ../../images/gather_and_defend_defending.gif
 thumbnail: ../../images/gather_and_defend.png
+link: https://craftelia.itch.io/gather-and-defend
 priority: 30
 ---
 

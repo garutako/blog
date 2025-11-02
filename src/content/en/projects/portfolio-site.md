@@ -4,6 +4,7 @@ author: Garutako
 timeline: Ongoing
 image: ../../images/portfolio_site.png
 thumbnail: ../../images/portfolio_site.png
+link: https://garutako.com/en/
 priority: 40
 ---
 
@@ -12,6 +13,7 @@ Welcome to my website!
 This project is built with the [AstroJS](https://nextjs.org/) framework. This started as a [Next.js](https://nextjs.org/) project. However, midway through, I realized that I did not need React components for what I wanted to make.  It's important to keep projects like this as simple as possible to avoid complications when we choose to add more complex features in the future. In addition, static site generation in NextJS requires some funky workarounds to be used at its fullest potential.
 
 ### For now, the website has:
+
 - English and French support
 - [A landing page with cool animations](/en).
 - [A page with where you can learn more about me.](/en/about)
@@ -25,3 +27,5 @@ For now, the about page is simply just text, however I plan for it to also have 
 I want to apply the same treatment to the projects page; having islands of information instead of a grid of images would be better. I want to add a custom description for each project so that they seem interesting to interact with.
 
 For my blog page, I am satisfied with the simple layout. I am trying different CSS styles to figure out what works best, but I don't need to do much more tweaking than that.
+
+Here's the repository for the project if you're interested in the code: <https://github.com/garutako/blog>
