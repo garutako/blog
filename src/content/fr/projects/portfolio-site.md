@@ -1,9 +1,10 @@
 ---
 title: Portfolio website
 author: Garutako
-timeline: Ongoing
+timeline: En cours
 image: ../../images/portfolio_site.png
 thumbnail: ../../images/portfolio_site.png
+link: https://garutako.com/fr/
 priority: 40
 ---
 
@@ -14,6 +15,7 @@ Il est important de garder des projets comme celui=çi le plus simple possible p
 requiert de contourner certains obstacles pour l'utiliser à son plein potentiel.
 
 ### Pour l'instant, le site a:
+
 - Support français et anglais
 - [Une page d'accueil avec de belles animations.](/fr).
 - [Une page où vous pouvez en apprendre plus sur moi.](/fr/about)
@@ -28,3 +30,5 @@ Pour l'instant, la page «À propos» contient seulement du text. Je compte ajou
 Je veux aussi faire la même chose pour la page de projets. Je souhaite avoir différents îlots d'informations au lieu d'une grille d'images. Chaque projet aurait sa propre descriptions pour pousser les utilisateurs à intéragir avec.
 
 Pour ma page de blogs, je suis satisfait avec la mise en page simple. J'essaie présentement différentes configurations de styles CSS pour voir ce qui marche le mieux, mais je ne veux pas changer plus que ça.
+
+Voici le repo du projet si vous vous intéressez au code: <https://github.com/garutako/blog>

@@ -32,7 +32,10 @@ const { Content } = await render(project);
                 <h2 class="float-left">{project.data.author}</h2>
                 <h2 class="float-right">{project.data.timeline}</h2>
             </div>
-            <br />
+            {
+                project.data.link != null && 
+                <h3>Project link: <a class="underline" href={project.data.link}>{project.data.link}</a></h3>
+            }
             <br />
             <div class='aspect-5/2 overflow-hidden'>
                 <Image src={project.data.image} alt={''} class='h-full w-full object-cover' />
