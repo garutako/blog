@@ -12,7 +12,7 @@ const postsEN = defineCollection({
             title: z.string(),
             description: z.string(),
             date: z.date(),
-            image: image(),
+            image: image().optional(),
         }),
 });
 
@@ -45,7 +45,7 @@ const postsFR = defineCollection({
             title: z.string(),
             description: z.string(),
             date: z.date(),
-            image: image(),
+            image: image().optional(),
         }),
 });
 
